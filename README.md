@@ -3,13 +3,13 @@ Hello! Welcome to my page! I probably won't support this website indefinitely bu
 
 The % describes how I feel my general level of experience with each, as well as my knowledge thereof.
 
-![neuralnets](/img/neuralnets.png)
+![neuralnets](/imgs/neuralnets.png)
 
 
 For the above Graphic, all of my experience implementing the models have been in python, largely through google colab, but with some work on the ASU Supercomputer as well.
 
 Here is a similar graphic for language proficiency:
-![languages](/img/languages.png)
+![languages](/imgs/languages.png)
 
 ## Education:
 In progress: 
