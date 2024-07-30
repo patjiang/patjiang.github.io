@@ -2,26 +2,26 @@
 Hello! Welcome to my page! I probably won't support this website indefinitely but It's a good slice into what I do on the day-to-day. Although my major is in CS/Math, I also have a keen interest in protein folding and protein dynamics; particularly, the idea of high-dimensional graph representations are what interest me the most. In the background, I am working with some of my friends in the Biological Physics department on creating a new heuristic embedding generation scheme for proteins that does not involve direct residue embedding. I have a good deal of experience working with and reading about different neural network architectures, and I will give a graphic below:
 
 The % describes how I feel my general level of experience with each, as well as my knowledge thereof.
-- GNN's                    [============>   ] 75%
-- CNN's                    [======>         ] 50%
-- VAE's                    [===>            ] 20%
-- PINN's                   [==>             ] 15%
-- Attention/Transformers   [=>              ] 10%
-- Generative Models        [>               ] 5%
+GNN's                    [============>   ] 75%
+CNN's                    [======>         ] 50%
+VAE's                    [===>            ] 20%
+PINN's                   [==>             ] 15%
+Attention/Transformers   [=>              ] 10%
+Generative Models        [>               ] 5%
 
 For the above Graphic, all of my experience implementing the models have been in python, largely through google colab, but with some work on the ASU Supercomputer as well.
 
 Here is a similar graphic for language proficiency:
-- python                   [===============>] 100%
-- html/css                 [=============>  ] 80%
-- R                        [==========>     ] 70%
-- c++                      [========>       ] 60%
-- Swift                    [=======>        ] 50%
-- Java                     [=====>          ] 40%
-- bash                     [===>            ] 20%
-- SQL                      [==>             ] 15%
-- MIPS                     [=>              ] 10%
-- arcteryx                 [>               ] 5%
+python                   [===============>] 100%
+html/css                 [=============>  ] 80%
+R                        [==========>     ] 70%
+c++                      [========>       ] 60%
+Swift                    [=======>        ] 50%
+Java                     [=====>          ] 40%
+bash                     [===>            ] 20%
+SQL                      [==>             ] 15%
+MIPS                     [=>              ] 10%
+arcteryx                 [>               ] 5%
 
 ## Education:
 In progress: 
@@ -36,6 +36,9 @@ Completed:
 - Protein Discovery with Discrete Walk-Jump Sampling (https://arxiv.org/abs/2306.12360)
 - Monte Carlo Methods (specifically chapter 11) (https://link.springer.com/book/10.1007/978-981-13-2971-5)
 - Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness (https://openreview.net/pdf?id=HSKaGOi7Ar)
+
+## Papers I have read:
+- I will update later when I have free time
 
 ## Current Positions
 - ASU iGEM Team Lead
