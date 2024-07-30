@@ -21,9 +21,9 @@ Completed:
 - N/A 😓
 
 ## Papers/Textbooks I am reading currently:
-- Protein Discovery with Discrete Walk-Jump Sampling (https://arxiv.org/abs/2306.12360)
-- Monte Carlo Methods (specifically chapter 11) (https://link.springer.com/book/10.1007/978-981-13-2971-5)
-- Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness (https://openreview.net/pdf?id=HSKaGOi7Ar)
+- [Protein Discovery with Discrete Walk-Jump Sampling](https://arxiv.org/abs/2306.12360)
+- [Monte Carlo Methods](https://link.springer.com/book/10.1007/978-981-13-2971-5) (specifically chapter 11) 
+- [Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://openreview.net/pdf?id=HSKaGOi7Ar)
 
 ## Papers I have read:
 - I will update later when I have free time
