@@ -3,43 +3,13 @@ Hello! Welcome to my page! I probably won't support this website indefinitely bu
 
 The % describes how I feel my general level of experience with each, as well as my knowledge thereof.
 
-GNN's                    [============>   ] 75%
-
-CNN's                    [======>         ] 50%
-
-VAE's                    [===>            ] 20%
-
-PINN's                   [==>             ] 15%
-
-Attention/Transformers   [=>              ] 10%
-
-Generative Models        [>               ] 5%
+![neuralnets](/img/neuralnets.png)
 
 
 For the above Graphic, all of my experience implementing the models have been in python, largely through google colab, but with some work on the ASU Supercomputer as well.
 
 Here is a similar graphic for language proficiency:
-
-python                   [===============>] 100%
-
-html/css                 [=============>  ] 80%
-
-R                        [==========>     ] 70%
-
-c++                      [========>       ] 60%
-
-Swift                    [=======>        ] 50%
-
-Java                     [=====>          ] 40%
-
-bash                     [===>            ] 20%
-
-SQL                      [==>             ] 15%
-
-MIPS                     [=>              ] 10%
-
-arcteryx                 [>               ] 5%
-
+![languages](/img/languages.png)
 
 ## Education:
 In progress: 
