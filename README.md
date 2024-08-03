@@ -9,7 +9,7 @@ The % describes how I feel my general level of experience with each, as well as 
 For the above Graphic, all of my experience implementing the models have been in python, largely through google colab, but with some work on the ASU Supercomputer as well.
 
 Here is a similar graphic for language proficiency:
-![languages](/imgs/languages.png)
+![languages](/imgs/languagesv2.png)
 
 ## Education:
 In progress: 
