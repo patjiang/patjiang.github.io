@@ -42,13 +42,16 @@ Completed:
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
 - [GADIFF: a transferable graph attention diffusion model for generating molecular conformations](https://academic.oup.com/bib/article/26/1/bbae676/7934647)
 
+
 ## Previous Positions
 - Research Assistant @ ASU Trans-AI-Lab
 - ASU iGEM Team Lead
 - Research Assistant/Software Developer @ BioProteanLab
 
+
 ## Current Position
 - Research Assistant/Machine Learning Engineer @ Singharoy Lab in Biodesign Institute
+
 
 ## What's in my Repository?
 - As of now, there are mostly mall projects and packages that I have tinkered around with to modify for my purposes.
@@ -64,6 +67,7 @@ This is the more recent of my "finished" projects. The entire idea behind this p
 - Main Cons
   - I truly underestimated how long this would take. What I thought would bhe a 1-2 week short project, eventually dragged onto a 3-4 week behemoth. Yeah, 3-4 weeks is not too long, but between research and classes, it felt like a slog, and I almost gave up a few times. Overall, I now have a greater appreciation to those who do benchmarking (and I'm sure it would've been easier if I did not want to do everything in google colab)
 
+
 ### openBind
 This project is more of an integration of multiple end-to-end projects which already exist, but I wanted to create a very public usage of it. However, as of now, much of the code does not run anymore, due to some colab version issues and package control which I truly cannot be bothered to deal with. At the time, the idea was that binder design, either for the sake of teaching or specific drug design, ought to be more accessible. As the slow snowballing of foundational models required more and more compute over time, I thought the idea of a pipeline which could be run all from the convenience of a personal computer, with only the usage of a google account would be wonderful. And, on top of everything, most of the current work in the design pipelines did not use and kind of specific binder-specific binding affinity prediction methodologies yet, so adding a Kd prediction model would be good as well to help streamline the binder selection process. 
 - Main Pros
@@ -71,6 +75,6 @@ This project is more of an integration of multiple end-to-end projects which alr
 - Main Cons
   - The same pro is the con -- Other than the passion I felt, the long sleepless nights that I worked on this pipeline made it nearly impossible to test any of the final designs I had (in wet lab). If I could do this project again, I would spend less time merely running scripts and more time reading through the documentation and methodologies of those who come before me. I was naive and approached this project a bit hardheaded -- I would have loved to compare the binding models against rosetta energies or molecular dynamics, but I fear my current obligations prevent me from doing so.
 
+
 ### TBD
 (future project retrospective... maybe?)
-
