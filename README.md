@@ -38,7 +38,7 @@ Completed:
 - [DeepRank: a deep learning framework for data mining 3D protein-protein interfaces](https://www.nature.com/articles/s41467-021-27396-0)
 - [Neural Network Potentials: A Concise Overview of Methods](https://arxiv.org/abs/2107.03727)
 - [Wasserstein GAN](https://arxiv.org/abs/1701.07875)
--  
+- [GADIFF: a transferable graph attention diffusion model for generating molecular conformations](https://academic.oup.com/bib/article/26/1/bbae676/7934647)
 
 ## Previous Positions
 - Research Assistant @ ASU Trans-AI-Lab
