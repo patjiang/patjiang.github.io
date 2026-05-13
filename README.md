@@ -3,10 +3,11 @@ Hello, Welcome to my page! 🤗
 
 Think of this page as a very general overview of the kinds of things that are interesting to me as well as some (*light*) discussion about previous projects.
 
-## Education:
-- In progress: 
-  - Master's in Computer Science
+## Employment:
+- Stastistical Programmer at Mayo Clinic:
+  - Working on De Novo Design methods and In-Silico High throughput screening methods
 
+## Education:
 - Completed:
   - Bachelor's in Computer Science
 
