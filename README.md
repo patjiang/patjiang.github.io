@@ -59,4 +59,3 @@ Think of this page as a very general overview of the kinds of things that are in
 - As of now, there are mostly mall projects and packages that I have tinkered around with to modify for my purposes.
 - There are a few fully custom repositories, such as ConvolutionalSelfAttention and openBind; but also lots of half-finished and abandoned works like Grid2Demand.
   - I don't anticipate going back and finishing them, as the position I once filled in those projects is now passed on to someone else.
-- Regardless, I will go into a brief interlude on what these projects [ConvolutionalSelfAttention](https://github.com/patjiang/ConvolutionalSelfAttention), [openBind](https://github.com/patjiang/openBind) represent.
