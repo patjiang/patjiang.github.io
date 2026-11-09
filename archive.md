@@ -2,6 +2,8 @@
 
 I want to at some point revamp my website to have my older projects with deeper discussions of them...
 
+- Regardless, I will go into a brief interlude on what these projects [ConvolutionalSelfAttention](https://github.com/patjiang/ConvolutionalSelfAttention), [openBind](https://github.com/patjiang/openBind) represent.
+
 ### ConvolutionalSelfAttention
 This is the more recent of my "finished" projects. The entire idea behind this project was implementing and understanding a framework which is widely adopted and used. The main motivation behind this adaptation of Nvidia's blog post in 2024 is actually providing salient visualizations, and also compare against methodologies I wanted to see. Overall, the purpose of the project was also to publicise and provide a basis implementation for the interesting framework they proposed. I think in the future, I may revisit this work, and add mroe commentary on which parts work and don't work.
 - Main Pros
